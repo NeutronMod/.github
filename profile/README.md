@@ -1,12 +1,20 @@
-## Hi there 👋
+# NeutronMod
 
-<!--
+### 1, What is NeutronMod?
 
-**Here are some ideas to get you started:**
+**NeutronMod** is an Online **[Turbowarp Mod](https://turbowarp.org/)** which is like github but for 
+scratch projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 2, Can I make a project?
+
+**Yes!** anyone can make a account and start posting there cool
+*OG* projects!
+
+### 3, Can I submit my ideas?
+
+**OFCOURSE!** you can submit your ideas in anyway like
+
+- Contributing
+- Reporting bugs
+
+**AND MORE!**
